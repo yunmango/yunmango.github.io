@@ -8,6 +8,6 @@ category: Papers
 > Hello!
 
 This is code
-```
+```python
 print 'hello world'
 ```
