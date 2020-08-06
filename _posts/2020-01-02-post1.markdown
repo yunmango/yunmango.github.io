@@ -1,7 +1,7 @@
 ---
 layout: post
-title: post-sample
-date: 2020-01-02 19:20:23 +0900
+title: first post test
+date: 2020-08-05 17:00:00 +0900
 category: sample
 ---
 # post-sample
